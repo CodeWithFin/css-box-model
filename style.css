@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+    text-align: center;
+    
+    text-transform: Uppercase;
+}
+p{
+    color:white;
+    text-align:center;
+}
+#living-room{
+    border: 5px solid white;
+}
+img{
+    height:400px;
+    width:100%;
+    margin-top:10%
+    
+}
+.mot-meme{
+    width:50%;
+    margin-left: 25%;
+    font-family:  "Libre Baskerville", serif;
+}
